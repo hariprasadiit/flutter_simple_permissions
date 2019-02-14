@@ -10,5 +10,6 @@ packages
 pubspec.lock
 
 \.vscode/
+.history
 
 example/ios/\.symlinks/
