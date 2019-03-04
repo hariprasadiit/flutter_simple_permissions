@@ -35,9 +35,5 @@ android {
 
 
 dependencies {
-<<<<<<< HEAD
-    implementation 'com.android.support:support-v4:27.1.0'
-=======
     implementation 'com.android.support:support-v4:27.1.1'
->>>>>>> 4d93b823e5d4ba1df80b9facf2c26d962f2c11d9
 }
